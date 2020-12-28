@@ -2,7 +2,7 @@
 date: 2018-11-22 12:26:40
 layout: post
 title: Bienvenido a la página web de Alejandro Alvarez Armas
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description:
 image: /assets/img/uploads/ale-1.jpg
 optimized_image: /assets/img/uploads/ale-1.jpg
 category: life
