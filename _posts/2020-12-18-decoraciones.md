@@ -1,11 +1,11 @@
 ---
-date: 2018-10-09 12:26:40
+date: 2020-12-18 12:01:40
 layout: post
 title: Decoraciones
 subtitle: Decoración de cumpleaños
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: /assets/img/uploads/d.jpg
-optimized_image: /assets/img/uploads/d.jpg
+description: 
+image: /assets/img/uploads/decoraciones-1.jpg
+optimized_image: /assets/img/uploads/decoraciones-1.jpg
 category: decoraciones
 author: ale
 ---

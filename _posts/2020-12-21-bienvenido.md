@@ -1,11 +1,11 @@
 ---
-date: 2018-11-22 12:26:40
+date: 2020-12-21 01:01:40
 layout: post
 title: Bienvenido a la página web de Alejandro Alvarez Armas
 description:
 image: /assets/img/uploads/ale-1.jpg
 optimized_image: /assets/img/uploads/ale-1.jpg
-category: life
+category: vida
 author: ale
 paginate: true
 ---
